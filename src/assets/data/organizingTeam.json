@@ -1,46 +1,37 @@
 [
     {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://www.linkedin.com/",
-        "github":"https://github.com/",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Management",
+        "name":"Aleksandr Denisov",
+        "designation":"Conference program; App; Work with speakers",
         "twitter":"",
-        "linkedin":"https://www.linkedin.com/",
-        "github":"",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://www.linkedin.com/",
-        "github":"https://www.github.com/",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://linkedin.com/",
-        "github":"https://github.com/",
-        "profileImage":"",
-        "website":"https://github.com"
-    },
-    {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
         "linkedin":"",
-        "github":"https://github.com/",
+        "github":"",
+        "profileImage":"https://firebasestorage.googleapis.com/v0/b/devfest2018-ee402.appspot.com/o/people%2Faleksandr_denisov.jpg?alt=media&token=409f3071-88f5-4f51-b0e9-5cc4515c91e2",
+        "website":""
+    },
+    {
+        "name":"Aleksey Pavlyukov",
+        "designation":"Work with sponsors",
+        "twitter":"",
+        "linkedin":"",
+        "github":"",
+        "profileImage":"https://firebasestorage.googleapis.com/v0/b/devfest2019-gdgnn.appspot.com/o/faces%2Fpavlyukov.jpg?alt=media&token=19c34c4f-6d5f-4b3e-8131-ee9a546a0bad",
+        "website":""
+    },
+    {
+        "name":"Alisa Drenina",
+        "designation":"Design; Social nets",
+        "twitter":"",
+        "linkedin":"",
+        "github":"",
+        "profileImage":"https://firebasestorage.googleapis.com/v0/b/devfest2018-ee402.appspot.com/o/people%2Falisa_drenina.jpg?alt=media&token=85a1e84c-4cdc-4168-a581-d75c469d58ca",
+        "website":""
+    },
+    {
+        "name":"Daniil Senkiv",
+        "designation":"Front End Developer",
+        "twitter":"",
+        "linkedin":"",
+        "github":"https://github.com/DASenkiv",
         "profileImage":"",
         "website":""
     }
