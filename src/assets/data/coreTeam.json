@@ -5,7 +5,7 @@
         "twitter":"",
         "linkedin":"",
         "github":"",
-        "profileImage":"",
+        "profileImage":"aleksandr_denisov.jpg",
         "website":""
     },
     {
@@ -14,7 +14,7 @@
         "twitter":"",
         "linkedin":"",
         "github":"",
-        "profileImage":"",
+        "profileImage":"pavlyukov.jpg",
         "website":""
     },
     {
@@ -23,16 +23,16 @@
         "twitter":"",
         "linkedin":"",
         "github":"",
-        "profileImage":"",
+        "profileImage":"people_alisa_drenina.jpg",
         "website":""
     },
     {
         "name":"Daniil Senkiv",
-        "designation":"Front End Developer",
-        "twitter":"",
+        "designation":"Front End Developer, Website",
+        "twitter":"twitter.com/DASenkiv",
         "linkedin":"",
         "github":"https://github.com/DASenkiv",
-        "profileImage":"",
+        "profileImage":"Daniil.png",
         "website":""
     }
 ]
