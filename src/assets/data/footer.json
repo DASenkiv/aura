@@ -53,6 +53,10 @@
         {
             "LinkName" : "Terms & Servies",
             "Link" : "https://docs.google.com/document/d/1_deZ1qOPxB_Cm_QxOprl7IXdjBfxoW0mPdTJM2mnCm0/edit?usp=sharing"
+        },
+        {
+            "LinkName" : "Based on aura project",
+            "Link" : "https://github.com/gdg-x/aura"
         }
     ]
 }

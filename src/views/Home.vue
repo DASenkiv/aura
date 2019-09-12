@@ -73,7 +73,7 @@
   import AboutGDGChapter from '@/components/home/AboutGDGChapter'
   import eventshowcase from '@/components/home/eventshowcase'
   // import wtmInfo from '@/components/home/wtmInfo'
-  import partners from '@/components/home/partners'
+  //import partners from '@/components/home/partners'
   import featureEvent from '@/components/home/featureEvent'
   
   export default {
@@ -83,7 +83,7 @@
       AboutGDGChapter,
       eventshowcase,
       // wtmInfo,
-      partners,
+      //partners,
       featureEvent
     }
   }
